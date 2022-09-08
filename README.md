@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=180&section=header&text=Tom Diary&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=120&section=header"/>
 
 <!-- USERINFO -->
 
@@ -8,7 +8,11 @@
 
 <!-- STAT -->
 
-<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdiary&theme=default&hide_border=true&stroke=0000&background=FFFFFF&ring=40b883&fire=40b883&currStreakLabel=40b883" alt="TomDiary" /></div>
+<!--
+<div align="center">
+  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdiary&theme=default&hide_border=true&stroke=0000&background=FFFFFF&ring=40b883&fire=40b883&currStreakLabel=40b883" alt="TomDiary" />
+</div>
+-->
 
 <!-- STAT -->
 

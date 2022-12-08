@@ -25,9 +25,9 @@
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-<div align="center">
+<!--<div align="center">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tomdiary&bg_color=ffffff&color=40b883&line=40b883&point=40b883&area=true&hide_border=true" />
-</div>
+</div>-->
 
 <!-- FOOTER -->
 

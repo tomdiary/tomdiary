@@ -4,7 +4,7 @@
 
 <!-- USERINFO -->
 
-[![TomDiary](https://readme-typing-svg.herokuapp.com?size=35&color=40B883&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+page;My+web+name+is+tomdiary;I+Expertise+5+Years+In+Programming;My+favorite+work%2C+welcome+to+follow;Thanks%2B)](https://github.com/tomdiary/tomdiary)
+[![TomDiary](https://readme-typing-svg.herokuapp.com?size=35&color=40B883&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+page;My+web+name+is+tomdiary;I+Expertise+7+Years+In+Programming;My+favorite+work%2C+welcome+to+follow;Thanks%2B)](https://github.com/tomdiary/tomdiary)
 
 <!-- STAT -->
 

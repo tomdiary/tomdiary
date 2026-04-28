@@ -1,35 +1,10 @@
-<!-- HEADER -->
+# 👋 Hi, I'm TomDiary
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=120&section=header"/>
+> 从 2017 年开始写代码，偏工程和产品
 
-<!-- USERINFO -->
+- ⚙️ 技术：Next.js / Vue.js / Go / Python  
+- 🧠 方向：基础平台、工具开发、测评
+- 🛠 在做：工具、线路分析
 
-[![TomDiary](https://readme-typing-svg.herokuapp.com?size=35&color=40B883&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+page;My+web+name+is+tomdiary;I+Expertise+7+Years+In+Programming;My+favorite+work%2C+welcome+to+follow;Thanks%2B)](https://github.com/tomdiary/tomdiary)
-
-<!-- STAT -->
-
-<!--
-<div align="center">
-  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdiary&theme=default&hide_border=true&stroke=0000&background=FFFFFF&ring=40b883&fire=40b883&currStreakLabel=40b883" alt="TomDiary" />
-</div>
--->
-
-<!-- STAT -->
-
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tomdiary&show_icons=true&count_private=true&hide_border=true&theme=vue" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdiary&layout=compact&hide_border=true&theme=vue" />
-</div>
-
-<!-- STATS -->
-
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-
-<!--<div align="center">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tomdiary&bg_color=ffffff&color=40b883&line=40b883&point=40b883&area=true&hide_border=true" />
-</div>-->
-
-<!-- FOOTER -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=120&section=footer"/>
-
+如果发现项目长时间未更新，可能是我动力不足，或者已经离开了  
+如果它对你有帮助，不妨 fork 一份，让它继续发光发热
